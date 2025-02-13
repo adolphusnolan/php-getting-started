@@ -1,0 +1,6 @@
+<?php
+
+    // critical nformation
+    phpinfo();
+    
+?>
